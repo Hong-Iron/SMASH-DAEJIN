@@ -20,5 +20,64 @@
   "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
   "goatcounter": "https://sassafras.goatcounter.com/count",
   "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
-  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g"
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "look": {
+    "41.체육관동": {
+      "style": "stone",
+      "wall": "#e4e2dc",
+      "glass": "#3a6a66",
+      "frame": "#b0b0aa",
+      "hip": true,
+      "roof": "#3fa57a"
+    },
+    "도서관": {
+      "style": "stone",
+      "wall": "#d8d6cf",
+      "glass": "#2f6a5c",
+      "frame": "#c0beb7"
+    },
+    "인문대학": {
+      "style": "brick",
+      "wall": "#8e5048",
+      "glass": "#3b4650",
+      "frame": "#ecebe6"
+    },
+    "학생회관": {
+      "style": "brick",
+      "wall": "#8a5048",
+      "glass": "#39424a",
+      "frame": "#b9b0a6"
+    },
+    "사회과학": {
+      "style": "brick",
+      "wall": "#8f4f45",
+      "glass": "#3a4248",
+      "frame": "#f0efea"
+    },
+    "대학본관": {
+      "style": "stone",
+      "wall": "#d9d6cc",
+      "glass": "#3b4249",
+      "frame": "#c8c4b9"
+    },
+    "전산센터": {
+      "style": "brick",
+      "wall": "#8a5a52",
+      "glass": "#3c4652",
+      "frame": "#cfc8bd"
+    },
+    "가정대학동": {
+      "style": "stone",
+      "wall": "#e2e0dc",
+      "glass": "#2f8a7a",
+      "frame": "#c8c8c4"
+    },
+    "법정대학": {
+      "style": "brick",
+      "wall": "#8a5048",
+      "glass": "#3a444c",
+      "frame": "#eeede8"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
 }
